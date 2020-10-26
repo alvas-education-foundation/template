@@ -1,8 +1,8 @@
 ---
-name: Cimmunity question
-about: I need help with Open Source
+name: community question
+about: I need help with career advice
 title: ''
-labels: 'general', 'Open Source'
+labels: 'Open source'
 assignees: ''
 
 ---
